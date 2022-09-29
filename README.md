@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ripyourbae # uchmod@gmail.com 
+- 👋 Hi, I’m @baeyorka # uchmod@gmail.com 
 - Copyright (C) 2021 Ripyourbae Instruments Incorporated
 
 - Redistribution and use in source and binary forms, with or without modification, are permitted provided that the Following conditions are met:
